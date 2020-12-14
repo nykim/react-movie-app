@@ -1,5 +1,5 @@
-import React from 'react'
-import {Icon} from 'antd';
+import React from 'react';
+import { Icon } from '@ant-design/compatible';
 
 function Footer() {
     return (
